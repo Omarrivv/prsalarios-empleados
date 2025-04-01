@@ -1,0 +1,7 @@
+# usando el cloud de Neon
+
+spring:
+    r2dbc:
+        url: r2dbc:postgresql://ep-tiny-cake-a5g1ubnw-pooler.us-east-2.aws.neon.tech/prsalariodb?ssl=true
+        username: prsalariodb_owner
+        password: npg_GJuKvW2xS9Us
